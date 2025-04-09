@@ -23,4 +23,3 @@ joblib
 dash
 geopandas
 streamlit
-openai-key: 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
