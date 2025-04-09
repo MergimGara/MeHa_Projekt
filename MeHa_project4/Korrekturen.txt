@@ -1,0 +1,3 @@
+Jupyter notebook alle Libraries in einer Zeile importieren = 0
+Temperatur und Luftfeuchtigkeit auf einer Karte visuell darstellen evtl mit Downloadfunktion = 0
+LLM-Modell mit Ollama und DeepSeek erstellen und nicht mit GPT = 0
