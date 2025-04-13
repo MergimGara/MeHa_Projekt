@@ -1,13 +1,11 @@
 import subprocess
 
+OLLAMA_PATH = "/usr/local/bin/ollama"  
+
 def query_local_llm(prompt):
-    """
-    Lokaler GPT-Aufruf via Ollama + DeepSeek.
-    Ruft das Modell `deepseek-coder` über subprocess auf.
-    """
     try:
         result = subprocess.run(
-            ["ollama", "run", "deepseek-coder", prompt],
+            [OLLAMA_PATH, "run", "deepseek-coder", prompt],  
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             text=True,
