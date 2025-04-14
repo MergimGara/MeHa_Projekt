@@ -99,14 +99,14 @@ MeHa_project/
 
 - ✅ Kreative Umsetzung mit Exportfunktionen
 - ✅ Datenbankauswertung mit SQL
-- ✅ GPT-Code integriert (Teilweise)
+- ✅ LLM-Analyse integriert (Nur Lokal)
 - ✅ Web-App zur Datenpräsentation
 
 ---
 
 ## 👥 Team
 
-**Gruppe 02 – FS2025**  
+**Gruppe 25 – FS2025**  
 **Teilnehmer:**
 - Mergim Gara  
 - Hasan Mahmuljin  
@@ -117,5 +117,4 @@ MeHa_project/
 
 ## 📝 Hinweise
 
-- Die `.env`-Datei mit dem OpenAI API-Key darf nicht eingereicht werden.
 - Alle Screenshots und Codeschnipsel zur Punktebegründung befinden sich im Anhang der PDF-Präsentation.
