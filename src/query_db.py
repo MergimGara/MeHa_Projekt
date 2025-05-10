@@ -2,7 +2,6 @@ import sqlite3
 import pandas as pd
 import os
 
-# Pfad zur Datenbank
 db_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/weather_data.db"))
 
 # Verbindung aufbauen
