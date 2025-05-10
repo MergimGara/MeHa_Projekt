@@ -18,7 +18,7 @@ Ziel: Temperatur- und Luftfeuchtigkeitsverläufe mehrerer Städte vergleichen un
 - requests
 - sqlite3
 - streamlit
-- openai (für GPT-Analyse, optional)
+- Ollama (Lokal)
 - python-dotenv
 
 ---
@@ -35,9 +35,7 @@ python src/get_weather_data.py
 python src/store_to_db.py
 ```
 
-### 🔹 (Optional) GPT-Analyse via OpenAI
-> ⚠️ .env-Datei mit OPENAI_API_KEY erforderlich
-
+### 🔹 (Optional) GPT-Analyse via Ollama (Lokal)
 ```bash
 python src/llm_summary.py
 ```
