@@ -66,8 +66,8 @@ MeHa_project/
 ├── src/
 │   ├── get_weather_data.py
 │   ├── store_to_db.py
-│   └── llm_summary.py
-├── .env               ← nicht mit abgeben!
+│   ├── llm_summary.py
+│   └── query_to_db.py
 ├── requirements.txt
 ├── README.md
 ├── presentation_group_XX.pdf
@@ -87,7 +87,7 @@ MeHa_project/
 | Statistik mit p-Wert                   | ✅ |
 | Visualisierung mit Plots               | ✅ |
 | SQL & Datenbank                        | ✅ |
-| LLM (GPT-Analyse, optional)            | ✅ |
+| LLM (   -Analyse, optional)            | ✅ |
 | Streamlit Web-App                      | ✅ |
 | ZIP-Abgabe + Präsentation              | ✅ |
 
