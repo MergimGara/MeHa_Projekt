@@ -104,10 +104,10 @@ MeHa_project/
 
 ## 👥 Team
 
-**Gruppe 25 – FS2025**  
+**Gruppe 25 – FS2025**
 **Teilnehmer:**
-- Mergim Gara  
-- Hasan Mahmuljin  
+- Mergim Gara
+- Hasan Mahmuljin
 
 **Dozent:** Dr. Mario Gellrich
 
